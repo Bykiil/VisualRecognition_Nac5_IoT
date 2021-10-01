@@ -1,6 +1,5 @@
-# Template para desenvolvimento e entrega de NAC
+# NAC5 - Disruptive Architectures IoT e IA
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
 
 # Nome do projeto
 
@@ -14,44 +13,39 @@ RM85136 - Gustavo Henrique Garrido de Melo
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+1ª Parte:
+Projeto que usa a imagem circulo.png para implementar um código que segmenta apenas os círculos maiores da imagem e exibe o resultado, assim como a área e o centro de massa dos dois círculos segmentados, com um marcação no centro indicando o CM e o valor da área, traça uma reta entre os dois centros dos círculos e calcula o ângulo de inclinação da reta em relação ao plano horizontal, feito em um jupyter notebook.
+
+2ª Parte:
+A segunda parte deste projeto consiste em realizar o processamento com imagens da webcam. Abrindo uma janela da OpenCV que exibe os contornos dos 2 círculos maiores, a reta entre centros dos círculos e o valor do ângulo em relação ao plano horizontal, feito com um arquivo .py
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
 <img src="/imagem.png" width="550">
+<img src="/imagem2.png" width="550">
 
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Para utilizar o projeto verifique se possui:
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+* Python 3
+* Jupyter Notebook ou conta no Google Colab
+* WebCam
 
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
 
 
 ## Link de vídeo demonstração
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video demostração webcam](https://drive.google.com/file/d/1HEZ6OOsfwcw8TIPDOiHkt1TMYiCaGe-a/view)
 
 
 ### Referências 
 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
+* [Template do Prof.Arnaldo](https://github.com/arnaldojr/templatenac)
+* [Cálculo da Rreta](https://stackoverflow.com/questions/31735499/calculate-angle-clockwise-between-two-points)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
