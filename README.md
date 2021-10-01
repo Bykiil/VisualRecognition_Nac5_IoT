@@ -1,6 +1,6 @@
 # NAC5 - Disruptive Architectures IoT e IA
 
-**Nome dos alunos:** 
+**Nome dos alunos:**  <br>
 RM85607 - Beatriz Kül Rezende <br>
 RM85136 - Gustavo Henrique Garrido de Melo
 
