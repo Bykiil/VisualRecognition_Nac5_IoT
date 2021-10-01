@@ -4,7 +4,7 @@
 RM85607 - Beatriz Kül Rezende <br>
 RM85136 - Gustavo Henrique Garrido de Melo
 
-**Turma: **
+**Turma:**
 2TDSA
 
 
@@ -16,7 +16,7 @@ Projeto que usa a imagem circulo.png para implementar um código que segmenta ap
 2ª Parte: <br>
 A segunda parte deste projeto consiste em realizar o processamento com imagens da webcam. Abrindo uma janela da OpenCV que exibe os contornos dos 2 círculos maiores, a reta entre centros dos círculos e o valor do ângulo em relação ao plano horizontal, feito com um arquivo .py
 
-## Diagrama do projeto
+## Ilustrações do projeto
 
 
 <img src="/imagem.png" width="550">
