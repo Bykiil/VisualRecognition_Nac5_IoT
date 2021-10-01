@@ -19,7 +19,7 @@ A segunda parte deste projeto consiste em realizar o processamento com imagens d
 ## Ilustrações do projeto
 
 
-<img src="/imagem.png" width="550">
+<img src="/imagem1.png" width="550">
 <img src="/imagem2.png" width="550">
 
 
