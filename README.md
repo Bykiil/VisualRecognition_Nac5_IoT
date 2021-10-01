@@ -5,10 +5,12 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 # Nome do projeto
 
 **nome dos alunos:** 
+RM85607 - Beatriz Kül Rezende
+RM85136 - Gustavo Henrique Garrido de Melo
 
 **Turma:**
+2TDSA
 
-**Ano:**
 
 ## Objetivo / descrição do Projeto
 
@@ -18,7 +20,7 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
-<img src="/imagem.jpg" width="550">
+<img src="/imagem.png" width="550">
 
 
 ## Como usar 
